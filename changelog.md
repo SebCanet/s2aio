@@ -1,4 +1,22 @@
-#Change Log
+# Change Log
+
+### Version 1.9
+Recognize Arduino pullup pin type for Firmata 2.5.3
+
+### Version 1.8
+
+19 March 2016
+
+Fixed bug in setting up and retrieving SONAR data
+
+###Version 1.7
+
+29 Dec 2015
+
+Updated French Scratch and Snap! Block Translations.
+configuration.cfg and s2aio_base_FR.sb2 were updated to reflect the update.
+Fixed bug for Snap! reading digital input
+No code changes for Scratch support
 
 ###Version 1.6
 
